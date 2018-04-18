@@ -19,15 +19,17 @@
 
 * **[屏幕适配](https://www.jianshu.com/c/b5d1ce82ee2d)**
 
+* **[Android开发遇到的坑汇总](https://github.com/AweiLoveAndroid/CommonDevKnowledge/blob/master/Android%E5%BC%80%E5%8F%91%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91%E6%B1%87%E6%80%BB/Android%E5%BC%80%E5%8F%91%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91.md)**
+
+* **[Android中的冷门知识点汇总](https://github.com/AweiLoveAndroid/CommonDevKnowledge/blob/master/Android%E4%B8%AD%E7%9A%84%E5%86%B7%E9%97%A8%E7%9F%A5%E8%AF%86%E7%82%B9%E6%B1%87%E6%80%BB/Android%E4%B8%AD%E7%9A%84%E5%86%B7%E9%97%A8%E7%9F%A5%E8%AF%86%E6%B1%87%E6%80%BB.md)**
+
+* **[双击back退出app](https://github.com/AweiLoveAndroid/CommonDevKnowledge/blob/master/%E5%8F%8C%E5%87%BBback%E9%80%80%E5%87%BAapp/%E5%8F%8C%E5%87%BBback%E9%80%80%E5%87%BAapp.md)**
+
 * **应用角标的实现（待完善）**
 
 * **利用原生api实现分享等功能（待完善）**
 
 * **二维码处理（待完善）**
-
-* **Android开发遇到的坑汇总（待完善）**
-
-* **Android中的冷门知识点汇总（待完善）**
 
 
 ----
